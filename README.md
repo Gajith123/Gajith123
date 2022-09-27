@@ -1,6 +1,6 @@
 - Hi, I’m @Gajith123
 - My Registration No is IT20206000.
-- I’m interested in Software Engineering and Web Development..
+- I’m interested in Software Engineering, UI/UX Engineering and Web Development..
 - I’m currently learning at SLIIT, Malabe..
 
 <!---
