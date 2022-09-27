@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Gajith123
+- Hi, I’m @Gajith123
 - My Registration No is IT20206000.
-- 👀 I’m interested in Software Engineering and Web Development..
-- 🌱 I’m currently learning at SLIIT, Malabe..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m interested in Software Engineering and Web Development..
+- I’m currently learning at SLIIT, Malabe..
 
 <!---
 Gajith123/Gajith123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
